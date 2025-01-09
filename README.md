@@ -7,7 +7,7 @@
 | УRSA(у) бояться, на мид не ходить | [Doom](https://t.me/dontunique)    |                   53 | [Не готов](./crypto/уrsaу%20бояться%20на%20мид%20не%20ходить/README.md) |
 | Дроби с ошибками                  | [maximxls](https://t.me/maximxlss) |                   23 | [Не готов](./crypto/дроби%20с%20ошибками/README.md)                     |
 | Гойдакрипт 3000                   | [maximxls](https://t.me/maximxlss) |                   18 | [Не готов](./crypto/гойдакрипт%203000/README.md)                        |
-| ZOV Knowledge Proof               | [maximxls](https://t.me/maximxlss) |                   16 | [Не готов](./crypto/zov%20knowledge%20proof/README.md)                  |
+| ZOV Knowledge Proof               | [maximxls](https://t.me/maximxlss) |                   16 | [Готов!](./crypto/zov%20knowledge%20proof/README.md)                  |
 | Бронза                            | [maximxls](https://t.me/maximxlss) |                    3 | [Не готов](./crypto/бронза/README.md)                                   |
 | Кириллкрипт                       | [maximxls](https://t.me/maximxlss) |                    1 | [Не готов](./crypto/кириллкрипт/README.md)                              |
 | kirillcrypt_antirevenge           | [maximxls](https://t.me/maximxlss) |                    1 | [Не готов](./crypto/kirillcrypt_antirevenge/README.md)                  |
