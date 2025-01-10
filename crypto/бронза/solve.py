@@ -1,18 +1,13 @@
-# Бронза
-**Категория:** Чеченские головоломки (crypto)\
-**Автор:** [maximxls](https://t.me/maximxlss)\
-**Количество решений:** 3\
-
-Выглядит очень знакомо, не правда ли? Мой гитхаб: https://github.com/maximxlss ;)
-
-### Решение
-Находим [райтап](https://maximxlss.github.io/writeups/crypter/writeup), читаем. Находим [реализацию](https://github.com/ubuntor/coppersmith-algorithm/) метода Копперсмита для двух переменных, устанавливаем, адаптируем райтап, запускаем:
-```Python
 import itertools
 from sage.all import *
 from Crypto.Util.number import long_to_bytes
 
 
+# это просто https://maximxlss.github.io/writeups/crypter/writeup
+# простите меня
+
+
+# простая реализация алгоритма
 # взято с https://github.com/ubuntor/coppersmith-algorithm/blob/main/coppersmith.sage
 # (модифицировано под обычный пайтон)
 def coron(pol, X, Y, k=2, debug=False):
@@ -138,5 +133,3 @@ d = mod(e, phi) ** -1
 m = mod(ct, N) ** d
 
 print(long_to_bytes(int(m)))
-```
-
