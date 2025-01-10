@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/player_animation.schema.json",
+    "title": "PlayerAnimation",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "key": {
+            "type": "string"
+        }
+    },
+    "required": [ "id", "key" ]
+}  

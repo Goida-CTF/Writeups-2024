@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/alert.schema.json",
+    "title": "YouWin",
+    "type": "object",
+    "properties": {
+        "alert": {
+            "type": "string"
+        }
+    },
+    "required": [ "comment" ]
+}

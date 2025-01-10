@@ -1,0 +1,27 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/player_moved.schema.json",
+    "title": "PlayerMoved",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "x": {
+            "type": "number"
+        },
+        "y": {
+            "type": "number"
+        },
+        "dx": {
+            "type": "number"
+        },
+        "dy": {
+            "type": "number"
+        },
+        "fix_dx": {
+            "type": ["number", "null"]
+        }
+    },
+    "required": [ "id", "x", "y", "dx", "dy", "fix_dx" ]
+}  

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/new_player.schema.json",
+    "title": "NewPlayer",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "string"
+        },
+        "color": {
+            "type": "string"
+        },
+        "x": {
+            "type": "number"
+        },
+        "y": {
+            "type": "number"
+        },
+        "nickname": {
+            "type": "string"
+        }
+    },
+    "required": [ "id", "color", "x", "y", "nickname" ]
+}  

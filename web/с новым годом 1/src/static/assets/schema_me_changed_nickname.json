@@ -1,0 +1,12 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/me_changed_nickname.schema.json",
+    "title": "MeChangedNickname",
+    "type": "object",
+    "properties": {
+        "nickname": {
+            "type": "string"
+        }
+    },
+    "required": [ "nickname" ]
+}  

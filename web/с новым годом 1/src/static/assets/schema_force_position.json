@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://xls.msk.ru/goidactf/happy-new-year/force_position.schema.json",
+    "title": "ForcePosition",
+    "type": "object",
+    "properties": {
+        "x": {
+            "type": "number"
+        },
+        "y": {
+            "type": "number"
+        }
+    },
+    "required": [ "x", "y" ]
+}  

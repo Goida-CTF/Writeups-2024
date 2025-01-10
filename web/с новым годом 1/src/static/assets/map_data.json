@@ -1,0 +1,220 @@
+[
+    {
+        "x": 0,
+        "y": 400,
+        "w": 600,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 560,
+        "y": 0,
+        "w": 40,
+        "h": 440,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 900,
+        "y": 100,
+        "w": 400,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1260,
+        "y": 410,
+        "w": 40,
+        "h": 470,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1000,
+        "y": 250,
+        "w": 40,
+        "h": 100,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1000,
+        "y": 350,
+        "w": 40,
+        "h": 100,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1260,
+        "y": 100,
+        "w": 40,
+        "h": 190,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1000,
+        "y": 250,
+        "w": 370,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1330,
+        "y": 250,
+        "w": 40,
+        "h": 200,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1000,
+        "y": 410,
+        "w": 370,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 900,
+        "y": 100,
+        "w": 40,
+        "h": 210,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 780,
+        "y": 310,
+        "w": 160,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 780,
+        "y": 310,
+        "w": 40,
+        "h": 410,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 780,
+        "y": 680,
+        "w": 160,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 900,
+        "y": 680,
+        "w": 40,
+        "h": 200,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 900,
+        "y": 840,
+        "w": 160,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1020,
+        "y": 680,
+        "w": 40,
+        "h": 200,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1020,
+        "y": 680,
+        "w": 160,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1140,
+        "y": 680,
+        "w": 40,
+        "h": 200,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1140,
+        "y": 840,
+        "w": 160,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 1200,
+        "y": 300,
+        "w": 100,
+        "h": 100,
+        "key": "flag",
+        "collides": false,
+        "flag_id": 0
+    },
+    {
+        "x": -400,
+        "y": 2500,
+        "w": 800,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": 360,
+        "y": 2500,
+        "w": 40,
+        "h": 800,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": -400,
+        "y": 3260,
+        "w": 800,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": -400,
+        "y": 2500,
+        "w": 40,
+        "h": 800,
+        "key": "steel",
+        "collides": true
+    },
+    {
+        "x": -50,
+        "y": 2850,
+        "w": 100,
+        "h": 100,
+        "key": "flag",
+        "collides": false,
+        "flag_id": 1
+    },
+    {
+        "x": 0,
+        "y": 1080,
+        "w": 1920,
+        "h": 40,
+        "key": "steel",
+        "collides": true
+    }
+]

@@ -38,8 +38,8 @@
 | Таск             | Автор                                |   Количество решений | Райтап                                            |
 |:-----------------|:-------------------------------------|---------------------:|:--------------------------------------------------|
 | Goidasuit        | [Depost](https://t.me/GorgonzolaCTF) |                   25 | [Не готов](./web/goidasuit/README.md)             |
-| С новым годом! 1 | [maximxls](https://t.me/maximxlss)   |                   16 | [Не готов](./web/с%20новым%20годом%201/README.md) |
-| С новым годом! 2 | [maximxls](https://t.me/maximxlss)   |                    9 | [Не готов](./web/с%20новым%20годом%202/README.md) |
+| С новым годом! 1 | [maximxls](https://t.me/maximxlss)   |                   16 | [Готов!](./web/с%20новым%20годом%201/README.md) |
+| С новым годом! 2 | [maximxls](https://t.me/maximxlss)   |                    9 | [Готов!](./web/с%20новым%20годом%202/README.md) |
 | Гойдержка        | [Depost](https://t.me/GorgonzolaCTF) |                    5 | [Не готов](./web/гойдержка/README.md)             |
 | Goidasuit 2.0    | [Depost](https://t.me/GorgonzolaCTF) |                    3 | [Не готов](./web/goidasuit%2020/README.md)        |
 
