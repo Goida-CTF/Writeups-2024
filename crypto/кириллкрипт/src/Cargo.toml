@@ -1,0 +1,12 @@
+[package]
+name = "kirillcrypt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.95"
+concat-arrays = "0.1.2"
+crypto-bigint = "0.5.5"
+crypto-primes = "0.5.0"
+hex = "0.4.3"
+rand = "0.8.5"
