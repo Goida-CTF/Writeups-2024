@@ -66,7 +66,7 @@
 | African Incident Investigation, Pt. 2 | [k10nex](https://t.me/k10nex) (МСК +7) |                   20 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
 | Programmer Meme                       | [k10nex](https://t.me/k10nex) (МСК +7) |                   14 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/programmer%20meme)                           |
 | African Incident Investigation, Pt. 3 | [k10nex](https://t.me/k10nex) (МСК +7) |                   11 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
-| [СЕКРЕТНЫЕ ДОКУМЕНТЫ]                 | [thxStuck](https://t.me/thankspluxury) |                    7 | [Не готов](./forensic/секретные%20документы/README.md)                       |
+| [СЕКРЕТНЫЕ ДОКУМЕНТЫ]                 | [thxStuck](https://t.me/thankspluxury) |                    7 | [Готов!](https://teletype.in/@thxpluxury/IMSZzu7k83B)                       |
 
 ### osint
 | Таск                                  | Автор                                |   Количество решений | Райтап                                                                         |
