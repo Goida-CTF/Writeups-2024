@@ -61,11 +61,11 @@
 ### Задания для отдела "К" (forensic)
 | Таск                                  | Автор                                  |   Количество решений | Райтап                                                                       |
 |:--------------------------------------|:---------------------------------------|---------------------:|:-----------------------------------------------------------------------------|
-| be crfl wth pictrs                    | [k10nex](https://t.me/k10nex) (МСК +7) |                   54 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/be%20crfl%20wth%20pictrs)                    |
-| African Incident Investigation. Pt.1  | [k10nex](https://t.me/k10nex) (МСК +7) |                   28 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation)    |
-| African Incident Investigation, Pt. 2 | [k10nex](https://t.me/k10nex) (МСК +7) |                   20 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
-| Programmer Meme                       | [k10nex](https://t.me/k10nex) (МСК +7) |                   14 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/programmer%20meme)                           |
-| African Incident Investigation, Pt. 3 | [k10nex](https://t.me/k10nex) (МСК +7) |                   11 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
+| be crfl wth pictrs                    | [k10nex](https://t.me/k10nex) |                   54 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/be%20crfl%20wth%20pictrs)                    |
+| African Incident Investigation. Pt.1  | [k10nex](https://t.me/k10nex) |                   28 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation)    |
+| African Incident Investigation, Pt. 2 | [k10nex](https://t.me/k10nex) |                   20 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
+| Programmer Meme                       | [k10nex](https://t.me/k10nex) |                   14 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/programmer%20meme)                           |
+| African Incident Investigation, Pt. 3 | [k10nex](https://t.me/k10nex) |                   11 | [Готов!](https://github.com/k10nex/goidactf2024-tasks/tree/main/Forensics/African%20Incident%20Investigation) |
 | [СЕКРЕТНЫЕ ДОКУМЕНТЫ]                 | [thxStuck](https://t.me/thankspluxury) |                    7 | [Готов!](https://teletype.in/@thxpluxury/IMSZzu7k83B)                       |
 
 ### osint
